@@ -238,7 +238,6 @@ html {
     margin-top: var(--rem-one);
   }
   .cards {
-    min-width: 375px;
     display: block;
   }
   .card {
