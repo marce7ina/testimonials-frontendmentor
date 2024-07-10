@@ -105,6 +105,7 @@ html {
   border: 3px solid var(--light-violet);
 }
 .profile-4 {
+  box-sizing: unset;
   border: 3px solid var(--moderate-violet);
 }
 /*          VIOLET VERIFIED STATUS          */
